@@ -1,2 +1,2 @@
-# RSAM-Seg
-Code for RSAM-Seg
+# RSA
+Code for RSA
